@@ -1,2 +1,2 @@
 # API_Python
-API testing using python
+API testing framework using python
