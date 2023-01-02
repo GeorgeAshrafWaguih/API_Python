@@ -3,4 +3,4 @@ API testing framework using python
 - Simple API test
 - Adding query parameter
 - Parsing the JSON response
-- HTTP methods with requests
+- REST API authentication 
